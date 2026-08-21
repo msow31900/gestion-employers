@@ -1,1 +1,14 @@
-{}
+[
+    {
+        "nom": "SOW",
+        "prenom": "MOUSSA",
+        "age": 23,
+        "sexe": "M",
+        "adresse": "MALIKA",
+        "telephone": "784096151",
+        "matricule": "12345",
+        "poste": "221",
+        "salaire": 35000.0,
+        "departement": null
+    }
+]
